@@ -1,0 +1,3 @@
+I applied the following three Machine Learning Algorithms on our Parkinsons Dataset.
+
+I found that the model built with the XGBoost Classifier gives us the highest accuracy rate of 94.87% while the other two models gave us an accuracy rate of 92.3%
